@@ -1,4 +1,4 @@
-# Hi there, I'm VaibhaV, 👋
+# Hi there, I'm VaibhaV,👋
 
 I'm a passionate Full Stack Developer specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). I enjoy building web applications that are efficient, scalable, and visually appealing.
 
