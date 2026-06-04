@@ -85,7 +85,7 @@ Built using MongoDB, Express.js, React.js and Node.js to enable citizens to repo
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://vaibhavrajharsh.blogspot.com">
+<a href="https://vaibhavrajharsh.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </p>
